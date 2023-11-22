@@ -1,0 +1,193 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 100px;
+    margin-left: 100px;
+    background-color: rgb(45, 45, 79);
+}
+
+.up1 {
+    display: flex;
+}
+
+.rit {
+    font-weight: bolder;
+    color: white;
+    margin-right: 50px;
+    font-size: 16px;
+    margin-left: 200px;
+    margin-top: 18px;
+}
+
+.mid {
+    font-weight: bolder;
+    color: white;
+    margin-top: 22px;
+    margin-right: 15px;
+    font-size: 10px;
+}
+
+.lef {
+    font-weight: bolder;
+    color: white;
+    margin-top: 22px;
+    margin-left: 200px;
+    margin-right: 10px;
+    font-size: 10px;
+}
+
+#arrow {
+    font-size: 10px;
+    font-weight: bolder;
+    margin-left: 3px;
+}
+
+#join {
+    background-color: rgb(66, 154, 255);
+    padding: 10px;
+    padding-left: 22px;
+    padding-right: 22px;
+    font-size: 10px;
+    color: white;
+    border-radius: 3px;
+    margin-top: 12px;
+    font-weight: bolder;
+}
+
+.cent {
+    font-weight: bolder;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 10px;
+}
+
+.welcome {
+    font-weight: bolder;
+    color: rgb(98, 158, 227);
+    margin-top: 60px;
+    text-align: center;
+    font-size: 10px;
+}
+
+.sell {
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+
+.we {
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+}
+
+.one {
+    padding: 10px;
+    padding-left: 22px;
+    padding-right: 22px;
+    background-color: rgb(66, 154, 255);
+    margin-right: 5px;
+    border-radius: 3px;
+}
+
+.two {
+    padding: 10px;
+    padding-left: 22px;
+    padding-right: 22px;
+    border: 1px solid rgb(98, 158, 227);
+    margin-left: 5px;
+    border-radius: 3px;
+}
+
+.fa-solid {
+    width: 40px;
+    height: 40px;
+    padding: 3px;
+    font-size: 200%;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(96, 228, 140);
+}
+
+.fa-regular {
+    width: 40px;
+    height: 40px;
+    padding: 3px;
+    font-size: 200%;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+#drit {
+    background-color: white;
+    height: 150px;
+    width: 150px;
+    padding: 25px;
+    font-size: 10px;
+    float: left;
+    /* width: 18.33%; */
+    margin-right: 20px;
+}
+
+#dmid {
+    background-color: white;
+    height: 150px;
+    width: 150px;
+    padding: 25px;
+    font-size: 10px;
+    float: left;
+    /* width: 18.33%; */
+}
+
+#dlef {
+    background-color: rgb(66, 154, 255);
+    height: 150px;
+    width: 150px;
+    padding: 25px;
+    font-size: 10px;
+    float: left;
+    /* width: 18.33%; */
+    margin-left: 20px;
+    color: white;
+}
+
+.dall {
+    /* width: 100%; */
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    /* margin-left: 80px; */
+    justify-content: center;
+    align-content: center;
+}
+
+#drit hr {
+    width: 25%;
+    border-bottom-width: 1.5px;
+    border-bottom-color: red;
+    margin-left: 1px;
+}
+
+#dmid hr {
+    width: 25%;
+    border-bottom-width: 1.5px;
+    border-bottom-color: red;
+    margin-left: 1px;
+}
+
+#dlef hr {
+    width: 25%;
+    border-bottom-width: 1.5px;
+    border-bottom-color: rgb(172, 222, 236);
+    margin-left: 1px;
+}
+
+.bold {
+    font-weight: bolder;
+}
